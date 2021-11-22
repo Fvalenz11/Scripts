@@ -7,8 +7,3 @@ echo "Cleaning memory...:.."
 echo "Current Stats ...: .."
 df
 free
-
-
-#echo "Nagorik Security Systems."
-#prompt="You: I am the ultimate security AI assistant, also a fork of An Detection Algorithm. I able to collect investigation about exotic matter, his dark materials and dust.\nNagorik:",
-    
